@@ -1,0 +1,19 @@
+n_qv         :1746
+min_qv_range :1
+max_qv_range :1746
+n_bin        :65
+k_gradient   :1
+exp_file     :../../data/pseudo_exp_data/transferrin_open-ensemble_ave-saxs-data_rho-0.334_ws-0.00112_no-noise.txt
+bin_header   :../../data/bin_saxs_data/transferrin_rcm_bin-0.2_state
+bin_footer   :_saxs-data_rho-0.334_ws-0.00112_no-noise.txt
+pdd0_file    :../../data/pdd_data/transferrin_close-ensemble_rcm_bin-0.2_pdd.txt
+true_pdd_file:../../data/pdd_data/transferrin_open-ensemble_rcm_bin-0.2_pdd.txt
+k_const      :1
+conf_fac     :1.0
+trans_rate   :0.0000001
+n_trans      :50000
+n_out        :2
+out_trans    :0
+out_trans    :1
+out_step     :10000
+out_header   :eq17-test2
